@@ -1,4 +1,4 @@
-Egg Rescue is a simple browser-based game where players take control of bulls to protect eggs from enemy attacks. The goal is to prevent the enemies from reaching the eggs and eating them. The game features basic mechanics, including player movement, enemy spawning, and collision detection.
+Egg Rescue game is a simple browser-based game where players take control of bulls to protect eggs from enemy attacks. The goal is to prevent the enemies from reaching the eggs and eating them. The game features basic mechanics, including player movement, enemy spawning, and collision detection.
 
 Features
 Player Control: Use arrow keys to move the bull.
